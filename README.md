@@ -1,2 +1,2 @@
 # ari_website
-Ari's Website
+Ari's Personal Website
