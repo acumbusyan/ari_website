@@ -1,0 +1,6 @@
+[x] 1. make score display bigger
+[x] 2. make it so that when u die ur score is shown and the snake doesnt move until u click the button
+[] 3. start the snake in the middle of the screen when u die
+[] 4. make snake and apple bigger
+[] 5. make grid
+[] 6. make it so that you can die by crashing into yourself
